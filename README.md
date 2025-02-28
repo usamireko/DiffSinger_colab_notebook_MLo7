@@ -9,7 +9,7 @@
 
 ___
 
-### Custom Local Training GUI is moved to [DiffTrainer](https://github.com/agentasteriski/DiffTrainer)
+### EXPERIMENTAL -NOT FOR PRODUCTION USE-
 
 ___
 ## DiffSinger training notebook: <a href="https://colab.research.google.com/github/usamireko/DiffSinger_colab_notebook_MLo7/blob/main/DiffSinger_colab_notebook.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 150px;"/> </a>
