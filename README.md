@@ -17,7 +17,7 @@ ___
 ### Please see [data_example.md](data_example.md) for the data setup format
 ___
 
-## DiffSinger training notebook: <a href="https://github.com/usamireko/DiffSinger_colab_notebook_MLo7/blob/Stable/DiffSinger_colab_notebook.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 150px;"/> </a>
+## DiffSinger training notebook: <a href="https://github.com/usamireko/DiffSinger_colab_notebook_MLo7/blob/main/DiffSinger_colab_notebook.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 150px;"/> </a>
 
 ### current supported data format:
 - lab + wav (NNSVS format)
