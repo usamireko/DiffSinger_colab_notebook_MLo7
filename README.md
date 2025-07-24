@@ -1,3 +1,5 @@
+## This is a beta branch, a.k.a. my playground, do not use this branch if you dont know what are you doing because stuff can be (and mostly will) be broken. Main is your choice.
+
 ## TODO
 
 - [x] Support multidict training on main notebook.
