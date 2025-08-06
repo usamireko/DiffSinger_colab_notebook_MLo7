@@ -9,6 +9,9 @@ This is simple notebook that aims to make CLI inference easier for everyone
 - model_folder = Path of the acoustic model folder
 - speaker_name = Name of the speaker to do inference
 - lang = language
+- custom_vocoder = Enables the usage of custom vocoders, ignoring the one present in your VB´s config.yaml
+- vocoder_type = Changes vocoders, options being NSF-HiFiGAN or DDSP
+- custom_vocoder_type = Path of your custom vocoder
 - gender = Gender parameter from -1 to 1
 - output_path = Path to where to drop the generated WAV
 - output_filename = Name of the generated WAV
